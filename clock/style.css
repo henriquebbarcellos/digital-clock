@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+#clock{
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+
+#contain{
+
+    float: right;
+    margin-right: 50%;
+    position: relative;
+    left: 118px;
+    top: 60px;
+    
+    
+    
+}
+#time{
+
+    font-size: xx-large;
+    text-align: center;
+    border: solid 3px;
+    width: 200px;
+    background-color: aqua;
+
+}
+
+.boton{
+
+    position: relative;
+    top: 150px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  
+}
+
+
+.btn{
+
+    font-size: xx-large;
+    margin-left: 10px;
+
+}
